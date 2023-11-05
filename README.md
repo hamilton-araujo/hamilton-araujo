@@ -19,6 +19,8 @@
 </div>
 
 
+## Status de Linguagens e Progresso:
+
 <div>
 <a href="https://github.com/hamilton-araujo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamilton-araujo&layout=compact&langs_count=7&theme=dracula"/>
